@@ -6,6 +6,8 @@ Códigos, conteúdos de aulas e informações da disciplina.
 
 links:
 
+ - Gravação aula: https://animaeducacao.zoom.us/rec/share/2r8UiX8H6A0GbSjpmPkUJQUwWSZsADzcIu6MWq2K1SVVzopQE0Em0mf91Hh_GiE.SjG6c8OeSbXzq1e1
+
  - Drive com PDFs e PPTs: https://laureatelatambr-my.sharepoint.com/:f:/g/personal/arthur_rocha_ecossistemaanima_com_br/Ek8n28xdRrVJqCKd7RFsYWsB4Q8APkKkSMdHAIp7JGix9g?e=mJhyBd
 
  - Quiz Matrizes: https://forms.gle/i5atdc6Sp3bg3Lfo8
